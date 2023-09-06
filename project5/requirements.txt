@@ -1,0 +1,7 @@
+django
+django-apscheduler
+django-environ
+pillow
+django-cleanup
+coverage
+coverage-badge

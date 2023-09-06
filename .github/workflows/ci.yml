@@ -1,0 +1,20 @@
+name: Testing and Coverage
+on: push
+
+jobs:
+  test_project:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Run Django unit tests
+      run: |
+        pip3 install --user django
+        pip3 install --user django-apscheduler
+        pip3 install --user django-environ
+        pip3 install --user pillow
+        pip3 install --user django-cleanup
+        pip3 install --user coverage
+        pip3 install --user coverage-badge
+        coverage run --branch manage.py test
+        coverage-badge -o coverage.svg -f
+        coverage xml

@@ -1,0 +1,6 @@
+*.vscode
+**/albumImages/*.jpg
+**/profileImages/*.jpeg
+**/profileImages/*.jpg
+!**/profileImages/NoImage.jpg
+**/audioFiles/*.mp3
