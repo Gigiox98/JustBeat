@@ -82,3 +82,5 @@ See [here](https://certificates.cs50.io/58eb7e8b-b4be-4c44-a7c5-42ad0e94ed0e.pdf
 
 ![Tests and Coverage](https://github.com/me50/Gigiox98/actions/workflows/ci.yml/badge.svg)  ![Coverage](./coverage.svg)<br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+
+The project's video: [https://www.youtube.com/watch?v=kofweJmpu9E](https://www.youtube.com/watch?v=ey9ZYwroAUg)https://www.youtube.com/watch?v=ey9ZYwroAUg
